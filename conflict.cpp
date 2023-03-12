@@ -2,6 +2,6 @@
 
 int main()
 {
-    int origin;
+    int local_change;
     return 0;
 }
